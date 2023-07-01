@@ -1,6 +1,5 @@
 {
   "name": "shopping-cart",
-  "homepage": "http://{sjoshi91119}.github.io/{shopping-cart2}",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,6 +16,7 @@
     "redux-thunk": "^2.4.2",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "http://{sjoshi91119}.github.io/{shopping-cart2}",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
